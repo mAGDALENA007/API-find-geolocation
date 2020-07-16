@@ -1,0 +1,22 @@
+{
+  "name": "myapiproj_2",
+  "version": "1.0.0",
+  "description": "this is first app by Magdalena Dummma.",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "data",
+    "Magdalena",
+    "app"
+  ],
+  "author": "Magdalena Dummma",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0",
+    "node-fetch": "^2.6.0"
+  }
+}
